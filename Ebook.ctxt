@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Ebook
+comment0.text=\r\n\ Extension\ of\ Book.\ Used\ to\ represent\ electronic\ books.\r\n\r\n\ @author\ Kamil\ Pawlowski\r\n\ @version\ 1\r\n
+comment1.params=ID\ title\ author\ genre\ cost\ avail\ pageCount\ fileSize
+comment1.target=Ebook(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.Double,\ boolean,\ int,\ java.lang.Double)
+comment1.text=\r\n\ Constructs\ objects\ of\ class\ Ebook\r\n
+comment2.params=
+comment2.target=int\ getPageCount()
+comment2.text=\r\n\ Gets\ Page\ Count\r\n\r\n\ @param\ \ \ \ \ \ No\ parameters\r\n\ @return\ \ \ \ int\ page\ count\r\n
+comment3.params=
+comment3.target=java.lang.Double\ getFileSize()
+comment3.text=\r\n\ Gets\ File\ Size\r\n\r\n\ @param\ \ \ \ \ \ No\ parameters\r\n\ @return\ \ \ \ double\ file\ size\r\n
+comment4.params=pageCount
+comment4.target=void\ setPageCount(int)
+comment4.text=\r\n\ Sets\ Page\ Count\r\n\r\n\ @param\ \ \ \ \ int\ new\ page\ count\r\n\ @return\ \ \ \ Nothing\r\n
+comment5.params=fileSize
+comment5.target=void\ setFileSize(java.lang.Double)
+comment5.text=\r\n\ Sets\ File\ Size\r\n\r\n\ @param\ \ \ \ \ double\ new\ file\ size\r\n\ @return\ \ \ \ Nothing\r\n
+comment6.params=
+comment6.target=java.lang.String\ type()
+comment6.text=\r\n\ Returns\ what\ class\ something\ is\ as\ a\ string\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ Describes\ the\ class\ in\ a\ string\ format\r\n
+numComments=8

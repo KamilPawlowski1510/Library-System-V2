@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Librarian
+comment0.text=\r\n\ Extension\ of\ Patron.\ Used\ to\ represent\ librarians\ and\ their\ borrowed\ books.\r\n\r\n\ @author\ Kamil\ Pawlowski\r\n\ @version\ 1\r\n
+comment1.params=name\ email\ phoneNo\ address\ borrowed\ salary
+comment1.target=Librarian(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.ArrayList,\ java.lang.Double)
+comment1.text=\r\n\ Constructs\ objects\ of\ class\ Librarian\r\n
+comment2.params=
+comment2.target=java.lang.Double\ getSalary()
+comment2.text=\r\n\ Gets\ Salary\r\n\r\n\ @param\ \ \ \ \ \ No\ parameters\r\n\ @return\ \ \ \ double\ salary\r\n
+comment3.params=salary
+comment3.target=void\ setSalary(java.lang.Double)
+comment3.text=\r\n\ Sets\ Salary\r\n\r\n\ @param\ \ \ \ \ double\ new\ salary\r\n\ @return\ \ \ \ Nothing\r\n
+comment4.params=
+comment4.target=java.lang.String\ cart()
+comment4.text=\r\n\ Uses\ the\ borrowed\ arraylist\ of\ books\ to\ make\ a\ summed\ up\ list\ of\ all\ books,\ \r\n\ show\ the\ discount\ applied\ and\ calculate\ the\ total\ cost\ for\ all\ the\ borrowed\ books\r\n\ \r\n\ @param\ \ \ No\ parameters\r\n\ @return\ \ String\ representation\ of\ the\ costs\ and\ procedure\ to\ calculate\ them\r\n
+comment5.params=
+comment5.target=java.lang.String\ type()
+comment5.text=\r\n\ Returns\ what\ class\ something\ is\ as\ a\ string\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Describes\ the\ class\ in\ a\ string\ format\r\n
+numComments=7

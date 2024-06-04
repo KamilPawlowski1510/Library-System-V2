@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=EasyScanner
+comment0.text=\r\n\ Used\ for\ taking\ inputs\ from\ the\ user\ and\ provides\ utility.\ All\ methods\ are\ static\r\n
+comment1.params=
+comment1.target=int\ nextInt()
+comment1.text=\r\n\ Takes\ in\ an\ integer\ value\ from\ the\ user\r\n
+comment2.params=
+comment2.target=double\ nextDouble()
+comment2.text=\r\n\ Takes\ in\ a\ double\ value\ from\ the\ user\ and\ will\ repeat\ until\ it\ is\ formatted\r\n\ correctly\ and\ then\ it\ will\ round\ to\ one\ or\ two\ decimal\ places\r\n
+comment3.params=
+comment3.target=java.lang.String\ nextString()
+comment3.text=\r\n\ Takes\ in\ a\ String\ from\ the\ user\r\n
+comment4.params=
+comment4.target=char\ nextChar()
+comment4.text=\r\n\ Takes\ a\ character\ from\ the\ user\r\n
+comment5.params=d
+comment5.target=java.lang.Double\ roundToTwo(java.lang.Double)
+comment5.text=\r\n\ Rounds\ a\ double\ to\ two\ decimal\ places\r\n
+numComments=6

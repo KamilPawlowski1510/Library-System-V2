@@ -1,0 +1,275 @@
+Project documentation
+<---- javadoc command: ---->
+C:\Program Files\BlueJ\jdk\bin\javadoc.exe
+-sourcepath
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2
+-source
+17
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\junit-jupiter-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-api-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-engine-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-migrationsupport-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-params-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-commons-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-console-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-console-standalone-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-engine-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-launcher-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-reporting-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-runner-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-suite-api-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-testkit-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-quickcheck-core-0.9.jar;C:\Program Files\BlueJ\lib\junit-vintage-engine-5.5.2.jar;C:\Program Files\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files\BlueJ\lib\hamcrest-library-1.3.jar;C:\Program Files\BlueJ\lib\lang-stride.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.base.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.controls.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.fxml.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.graphics.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.media.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.properties.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.swing.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.web.jar;C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\xstream-1.4.20.jar;C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2
+-d
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-doctitle
+Library System Version 2
+-windowtitle
+Library System Version 2
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-link
+https://docs.oracle.com/en/java/javase/11/docs/api/
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2/LibrarySystem.java
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2/Print.java
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2/Ebook.java
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2/Book.java
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2/Regular.java
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2/Librarian.java
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2/Library.java
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2/Audio.java
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2/iMain.java
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2/EasyScanner.java
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2/Patron.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\LibrarySystem.java...
+Loading source file C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Print.java...
+Loading source file C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Ebook.java...
+Loading source file C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Book.java...
+Loading source file C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Regular.java...
+Loading source file C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Librarian.java...
+Loading source file C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Library.java...
+Loading source file C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Audio.java...
+Loading source file C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\iMain.java...
+Loading source file C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\EasyScanner.java...
+Loading source file C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Patron.java...
+Constructing Javadoc information...
+Building index for all the packages and classes...
+Standard Doclet version 17.0.4+8
+Building tree for all the packages and classes...
+Generating C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\doc\Audio.html...
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Audio.java:31: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Audio.java:42: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Audio.java:53: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Audio.java:66: warning: @param argument "int" is not a parameter name.
+     * @param     int new length
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Audio.java:69: warning: @return tag cannot be used in method with void return type.
+    public void setLength(int length)
+                ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Audio.java:77: warning: @param argument "double" is not a parameter name.
+     * @param     double new file size
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Audio.java:80: warning: @return tag cannot be used in method with void return type.
+    public void setFileSize(Double fileSize)
+                ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Audio.java:88: warning: @param argument "String" is not a parameter name.
+     * @param     String new Narrator
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Audio.java:91: warning: @return tag cannot be used in method with void return type.
+    public void setNarrator(String narrator)
+                ^
+Generating C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\doc\Book.html...
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Book.java:43: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Book.java:54: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Book.java:65: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Book.java:76: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Book.java:87: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Book.java:98: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Book.java:111: warning: @param argument "String" is not a parameter name.
+     * @param     String new ID
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Book.java:114: warning: @return tag cannot be used in method with void return type.
+    public void setID(String ID)
+                ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Book.java:122: warning: @param argument "String" is not a parameter name.
+     * @param     String new title
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Book.java:125: warning: @return tag cannot be used in method with void return type.
+    public void setTitle(String title)
+                ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Book.java:133: warning: @param argument "String" is not a parameter name.
+     * @param     String new author
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Book.java:136: warning: @return tag cannot be used in method with void return type.
+    public void setAuthor(String author)
+                ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Book.java:144: warning: @param argument "String" is not a parameter name.
+     * @param     String new genre
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Book.java:147: warning: @return tag cannot be used in method with void return type.
+    public void setGenre(String genre)
+                ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Book.java:162: warning: @param argument "double" is not a parameter name.
+     * @param     double new cost
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Book.java:165: warning: @return tag cannot be used in method with void return type.
+    public void setCost(Double cost)
+                ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Book.java:173: warning: @param argument "boolean" is not a parameter name.
+     * @param     boolean new availability
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Book.java:176: warning: @return tag cannot be used in method with void return type.
+    public void setAvail(boolean avail)
+                ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Book.java:186: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+Generating C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\doc\EasyScanner.html...
+Generating C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\doc\Ebook.html...
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Ebook.java:29: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Ebook.java:40: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Ebook.java:53: warning: @param argument "int" is not a parameter name.
+     * @param     int new page count
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Ebook.java:56: warning: @return tag cannot be used in method with void return type.
+    public void setPageCount(int pageCount)
+                ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Ebook.java:64: warning: @param argument "double" is not a parameter name.
+     * @param     double new file size
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Ebook.java:67: warning: @return tag cannot be used in method with void return type.
+    public void setFileSize(Double fileSize)
+                ^
+Generating C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\doc\iMain.html...
+Generating C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\doc\Librarian.html...
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Librarian.java:28: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Librarian.java:39: warning: @param argument "double" is not a parameter name.
+     * @param     double new salary
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Librarian.java:42: warning: @return tag cannot be used in method with void return type.
+    public void setSalary(Double salary)
+                ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Librarian.java:53: warning: @param argument "No" is not a parameter name.
+     * @param   No parameters
+       ^
+Generating C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\doc\Library.html...
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Library.java:265: warning: @param argument "int" is not a parameter name.
+     * @param      int index
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Library.java:276: warning: @param argument "int" is not a parameter name.
+     * @param      int index
+       ^
+Generating C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\doc\LibrarySystem.html...
+Generating C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\doc\Patron.html...
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Patron.java:51: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Patron.java:62: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Patron.java:73: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Patron.java:84: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Patron.java:95: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Patron.java:108: warning: @param argument "String" is not a parameter name.
+     * @param     String new name
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Patron.java:111: warning: @return tag cannot be used in method with void return type.
+    public void setName(String name)
+                ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Patron.java:126: warning: @param argument "String" is not a parameter name.
+     * @param     String new email
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Patron.java:129: warning: @return tag cannot be used in method with void return type.
+    public void setEmail(String email)
+                ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Patron.java:144: warning: @param argument "String" is not a parameter name.
+     * @param     String new phone number
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Patron.java:147: warning: @return tag cannot be used in method with void return type.
+    public void setPhoneNo(String phoneNo)
+                ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Patron.java:155: warning: @param argument "String" is not a parameter name.
+     * @param     String new address
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Patron.java:158: warning: @return tag cannot be used in method with void return type.
+    public void setAddress(String address)
+                ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Patron.java:166: warning: @param argument "Arraylist" is not a parameter name.
+     * @param     Arraylist new borrowed
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Patron.java:169: warning: @return tag cannot be used in method with void return type.
+    public void setBorrowed(ArrayList<Book> borrowed)
+                ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Patron.java:234: warning: @param argument "No" is not a parameter name.
+     * @param   No parameters
+       ^
+Generating C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\doc\Print.html...
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Print.java:27: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Print.java:40: warning: @param argument "int" is not a parameter name.
+     * @param     int new page count
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Print.java:43: warning: @return tag cannot be used in method with void return type.
+    public void setPageCount(int pageCount)
+                ^
+Generating C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\doc\Regular.html...
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Regular.java:32: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Regular.java:43: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Regular.java:56: warning: @param argument "String" is not a parameter name.
+     * @param     String new ID
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Regular.java:59: warning: @return tag cannot be used in method with void return type.
+    public void setID(String ID)
+                ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Regular.java:67: warning: @param argument "boolean" is not a parameter name.
+     * @param     boolean new student
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Regular.java:70: warning: @return tag cannot be used in method with void return type.
+    public void setStudent(boolean student)
+                ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Regular.java:80: warning: @param argument "No" is not a parameter name.
+     * @param      No parameters
+       ^
+C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\Regular.java:101: warning: @param argument "No" is not a parameter name.
+     * @param   No parameters
+       ^
+Generating C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\doc\package-summary.html...
+Generating C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\doc\package-tree.html...
+Generating C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\doc\overview-tree.html...
+Building index for all classes...
+Generating C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\doc\allclasses-index.html...
+Generating C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\doc\allpackages-index.html...
+Generating C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\doc\index-all.html...
+Generating C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\doc\index.html...
+Generating C:\Users\Kamil\OneDrive - South East Technological University (Waterford Campus)\Semester 2\Programming Fundementals 2\assignment 2\Library System Version 2\doc\help-doc.html...
+67 warnings

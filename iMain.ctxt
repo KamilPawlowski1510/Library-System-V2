@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=iMain
+comment0.text=\r\n\ Used\ to\ apply\ classes\ to\ both\ books\ and\ patrons\r\n\r\n\ @author\ Kamil\ Pawlowski\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=java.lang.String\ type()
+comment1.text=\r\n\ Returns\ what\ class\ something\ is\ as\ a\ string\r\n
+numComments=2

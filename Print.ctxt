@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Print
+comment0.text=\r\n\ Extension\ of\ Book.\ Used\ to\ represent\ paper\ books.\r\n\r\n\ @author\ Kamil\ Pawlowski\r\n\ @version\ 1\r\n
+comment1.params=ID\ title\ author\ genre\ cost\ avail\ pageCount
+comment1.target=Print(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.Double,\ boolean,\ int)
+comment1.text=\r\n\ Constructs\ objects\ of\ class\ Print\r\n
+comment2.params=
+comment2.target=int\ getPageCount()
+comment2.text=\r\n\ Gets\ Page\ Count\r\n\r\n\ @param\ \ \ \ \ \ No\ parameters\r\n\ @return\ \ \ \ int\ page\ count\r\n
+comment3.params=pageCount
+comment3.target=void\ setPageCount(int)
+comment3.text=\r\n\ Sets\ Page\ Count\r\n\r\n\ @param\ \ \ \ \ int\ new\ page\ count\r\n\ @return\ \ \ \ Nothing\r\n
+comment4.params=
+comment4.target=java.lang.String\ type()
+comment4.text=\r\n\ Returns\ what\ class\ something\ is\ as\ a\ string\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Describes\ the\ class\ in\ a\ string\ format\r\n
+numComments=6
